@@ -1,7 +1,7 @@
 <?php include('data.php'); ?><!DOCTYPE html>
 <html>
   <head>
-    
+    <title>DrupalCon Los Angeles 2015 Schedule</title>
   </head>
   <body>
   <div id="sessions">
